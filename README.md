@@ -1,7 +1,6 @@
 MODULE 1 EXTRACTING THE DATA FROM THE SOURCE
 Zepto Catalog Data Pipeline 
-
-Description
+Description:     
 This project implements a catalog-style data pipeline using books.toscrape.com as the public scraping-practice data source.
 The pipeline follows:
 Scrape → Clean → Convert → Normalize → Store → Query → Analyze
