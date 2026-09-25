@@ -12,7 +12,7 @@ The website is a public scraping-practice website and does not require login or 
 
 MODULE 2 ANALYTICS OF TITANIC DATA AND MAKE THE PREDICTION ON IT           
 
-Description
+Description:     
 This module predicts whether a passenger survived the Titanic disaster using Machine Learning algorithms.
 The Titanic dataset is analyzed, cleaned, preprocessed, and used to train different classification models.
 Titanic-Survival-Prediction/ │ ├── titanic.csv ├── Titanic_ML.ipynb ├── titanic_final_pipeline.pkl └── README.md                
@@ -22,7 +22,7 @@ Titanic-Survival-Prediction/ │ ├── titanic.csv ├── Titanic_ML.ipyn
 
 MODULE 3 ZEPTO POLICY RAG SYSTEM               
 
-Description
+Description:    
 This project is a simple RAG (Retrieval-Augmented Generation) system that answers questions about Zepto policies.
 RAG pipeline   Documents >> Chunking >> Embeddings >> ChromaDB >> Query >> Intent Classification >> Retrieve Top 3 Chunks >> Generate Answer >> JSON Response
 Install the required libraries:
