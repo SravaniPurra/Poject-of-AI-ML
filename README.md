@@ -6,12 +6,19 @@ The pipeline follows:
 Scrape → Clean → Convert → Normalize → Store → Query → Analyze
 Data Source
 Website: books.toscrape.com
-The website is a public scraping-practice website and does not require login or an API key.
+The website is a public scraping-practice website and does not require login or an API key.   
+
+
+
 MODULE 2 ANALYTICS OF TITANIC DATA AND MAKE THE PREDICTION ON IT
 Description
 This module predicts whether a passenger survived the Titanic disaster using Machine Learning algorithms.
 The Titanic dataset is analyzed, cleaned, preprocessed, and used to train different classification models.
-Titanic-Survival-Prediction/ │ ├── titanic.csv ├── Titanic_ML.ipynb ├── titanic_final_pipeline.pkl └── README.md
+Titanic-Survival-Prediction/ │ ├── titanic.csv ├── Titanic_ML.ipynb ├── titanic_final_pipeline.pkl └── README.md                
+
+
+
+
 MODULE 3 ZEPTO POLICY RAG SYSTEM
 Description
 This project is a simple RAG (Retrieval-Augmented Generation) system that answers questions about Zepto policies.
